@@ -8,7 +8,7 @@ import java.time.Duration;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
+ * Assertions:
  * assertEquals()
  * assertTrue()
  * assertFalse()
@@ -17,7 +17,9 @@ import static org.junit.jupiter.api.Assertions.*;
  * assertArrayEquals()
  * assertThrows()
  * assertTimeout()
+ * assertAll()
  *
+ * Annotations:
  * @Test
  * @BeforeAll
  * @AfterAll
@@ -31,6 +33,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * @Disabled
  * @Nested
  *
+ * Classes:
  * TestInfo
  *
  */
