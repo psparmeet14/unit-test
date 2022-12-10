@@ -37,7 +37,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * TestInfo
  *
  */
-public class ExampleTest {
+public class ExamplesJUnit5Test {
 
     private String str;
 
