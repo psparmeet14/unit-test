@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5869acba-2cc4-4cdd-b8c2-3338c857ad72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/DemoPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/dao/BookingDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/exception/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/external/MailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/model/BookingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/model/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/service/BookingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/service/RoomService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/hotelbookingapp/util/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/parmeet/unittest/hotelbookingapp/service/BookingServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/parmeet/unittest/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExamplesJUnit5Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/parmeet/unittest/MainTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,22 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;D:/practice project/projects/unit-test/src/main/java/com/parmeet/unittest/hotelbookingapp&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/practice project/projects/lombok-java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_directory_selection": "D:/practice project/projects/unit-test/src/main/java/com/parmeet/unittest",
+    "last_opened_file_path": "D:/practice project/projects/lombok-java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.parmeet.unittest.tdd" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\practice project\projects\unit-test\src\main\java\com\parmeet\unittest" />
     </key>
@@ -81,7 +68,7 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoPractice">
+  <component name="RunManager" selected="Gradle.StringHelperTest">
     <configuration name="DemoPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.parmeet.unittest.hotelbookingapp.DemoPractice" />
       <module name="unit-test.main" />
@@ -141,7 +128,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="EmptyStringTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StringHelperTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -154,7 +141,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ExampleTest$EmptyStringTests&quot;" />
+            <option value="&quot;com.parmeet.unittest.tdd.StringHelperTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -164,7 +151,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StringUtilsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -177,7 +164,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ExampleTest&quot;" />
+            <option value="&quot;com.parmeet.unittest.tdd.StringUtilsTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -189,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StringHelperTest" />
+        <item itemvalue="Gradle.StringUtilsTest" />
         <item itemvalue="Application.DemoPractice" />
         <item itemvalue="Gradle.BookingServiceTest.should_InvokePayment_When_Prepaid_BDDStyle" />
         <item itemvalue="Gradle.BookingServiceTest" />
-        <item itemvalue="Gradle.ExampleTest" />
-        <item itemvalue="Gradle.EmptyStringTests" />
       </list>
     </recent_temporary>
   </component>
