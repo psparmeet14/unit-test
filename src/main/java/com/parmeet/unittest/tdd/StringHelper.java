@@ -9,4 +9,10 @@ public class StringHelper {
         String remainingString = str.substring(2);
         return firstTwoChars.replaceAll("A", "") + remainingString;
     }
+
+    public boolean areFirstTwoAndLastTwoCharsSame(String str) {
+        if (str.length() < 2)
+            return false;
+        return str.substring(0, 2).equals(str.substring(str.length() - 2));
+    }
 }
